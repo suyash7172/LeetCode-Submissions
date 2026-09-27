@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
