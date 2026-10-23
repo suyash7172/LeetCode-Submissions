@@ -89,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
