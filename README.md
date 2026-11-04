@@ -97,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/suyash7172/LeetCode-Submissions/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/suyash7172/LeetCode-Submissions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/suyash7172/LeetCode-Submissions/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
